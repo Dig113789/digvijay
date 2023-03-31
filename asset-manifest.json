@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digvijay/static/css/main.073c9b0a.css",
+    "main.js": "/digvijay/static/js/main.f8738866.js",
+    "static/js/787.6be98402.chunk.js": "/digvijay/static/js/787.6be98402.chunk.js",
+    "static/media/logo.svg": "/digvijay/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/digvijay/index.html",
+    "main.073c9b0a.css.map": "/digvijay/static/css/main.073c9b0a.css.map",
+    "main.f8738866.js.map": "/digvijay/static/js/main.f8738866.js.map",
+    "787.6be98402.chunk.js.map": "/digvijay/static/js/787.6be98402.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f8738866.js"
+  ]
+}
